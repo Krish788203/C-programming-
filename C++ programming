@@ -1,0 +1,45 @@
+#include<iostream>
+
+using namespace std;
+
+int main()
+
+{
+
+int a;
+
+cout<<"enter a value=";
+
+eat>>a;
+
+if(a>0)
+
+I
+
+day
+
+{
+
+cout<<"a is positive";
+
+}
+
+else if (a<0)
+
+}
+
+cout<<"a is negative";
+
+}
+
+else
+
+{
+
+cout<<"a is 0";
+
+}
+
+return 0;
+
+}
